@@ -1,0 +1,104 @@
+  
+   .name{
+    margin-top: 115px;
+    position: absolute;
+    margin-left: 150px;
+    color: #fff;
+    font-family: Brush Script MT;
+    font-size: 20px;
+   }
+  .f2{
+    width: 450px;
+    height: 800px;
+    background-image: linear-gradient(#f00,#3020ff, rgb(243, 73, 101));
+    margin-left: 550px;
+    margin-top: 60px;
+    border-radius: 20px;
+    position: relative;
+  }
+  input{
+      width: 350px;
+      height: 35px;
+      margin-left: 40px;
+      border: 1px solid grey;
+      border-radius: 4px;
+      
+  }
+  .form{
+    margin-top: 200px;
+  }
+   .go input{
+    margin-top: 220px;
+    font-size: 15px;
+   }
+   .went input{
+    margin-top: 15px;
+    font-size: 15px;
+   }
+   .gone {
+    width: 355px;
+    height: 38px;
+    margin-left: 40px;
+    border: 1px solid grey;
+    margin-top: 15px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    background-color: blue;
+    border-radius: 4px;
+   }
+   .tu{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+   }
+   p{
+    margin-left: 276px;
+    color: #fff;
+    font-size: 50px;
+   }
+    
+   .or{
+    width: 40%;
+    margin-top: 30px;
+    margin-left: 20px;
+   }
+   pre{
+    color: #fff;
+    margin-left: 210px;
+    margin-top: -20px;
+    font-size: 18px;
+
+   }
+   .fun{
+     width: 40%;
+     margin-left: 240px;
+     margin-top: -30px;
+   }
+   .run2 {
+    width: 100%;
+    margin-top: 280px;
+   }
+   h5{
+    color: rgba(255, 255, 255, 0.584);
+    font-size: 15px;
+    margin-left: 100px;
+    font-family: Arial, Helvetica, Arial, Helvetica, sans-serif;
+   }
+   h6{
+    color:#fff;
+    font-size: 15px;
+    margin-left: 275px;
+    font-family: Arial, Helvetica, Arial, Helvetica, sans-serif;
+    margin-top: -42px;
+   }
+   span{
+    color: #fff;
+    margin-left: 140px;
+    position: absolute;
+    margin-top: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+   }
+   i{
+    margin-right: 10px;
+   }
